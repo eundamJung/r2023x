@@ -1,3 +1,2 @@
-[v1.00]
-- 횁짝횉째 횄창쩍횄 : ARIO-C-EC, ARIO-C-CL, ARIO-C-PN, ARIO-C-PB, ARIO-C-EI, ARIO-C-DN, ARIO-C-MT, ARIO-C-MR
-TEST!!!!
+[v1.01]
+- 커플러/모듈 간 프로세스 데이터 튐 현상 개선 : ARIO-C-EC, ARIO-C-CL, ARIO-C-PN, ARIO-C-PB, ARIO-C-EI, ARIO-C-DN, ARIO-C-MT, ARIO-C-MR
